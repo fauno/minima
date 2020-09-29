@@ -24,6 +24,10 @@ layout: default
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
+
+    {%- if page.image.path -%}
+      <img itemprop="image" src="{{ page.image.path }}" alt="{{ page.image.description | default: page.title }}" />
+    {%- endif -%}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
