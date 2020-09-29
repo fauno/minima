@@ -281,3 +281,9 @@ table {
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
 }
+
+iframe {
+  border: 0;
+  width: 100%;
+  min-height: 480px;
+}
