@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "sutty-minima"
-  spec.version       = "2.5.2"
+  spec.version       = "2.5.3"
   spec.authors       = ["f", "Joel Glovier"]
   spec.email         = ["f@sutty.nl", "jglovier@github.com"]
 
