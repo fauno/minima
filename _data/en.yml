@@ -1,2 +1,7 @@
 ---
-locale: English
+date_format: "%m/%d/%Y"
+locale: "English"
+footer:
+  subscribe: "Subscribe"
+default:
+  content: "Content"

@@ -1,2 +1,7 @@
 ---
-locale: Castellano
+date_format: "%d/%m/%Y"
+locale: "Castellano"
+footer:
+  subscribe: "Suscribirse"
+default:
+  content: "Contenido"
