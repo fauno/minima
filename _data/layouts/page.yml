@@ -58,22 +58,6 @@ content:
   help:
     es: "Escribe aquí el artículo"
     en: "Write down your post"
-categories:
-  type: "array"
-  label:
-    es: "Categorías"
-    en: "Categories"
-  help:
-    es: "Empieza a escribir para filtrar valores ya usados.  Presiona enter para agregar ítems."
-    en: "Start typing to filter previously used values.  Press enter to add items."
-tags:
-  type: "array"
-  label:
-    es: "Etiquetas"
-    en: "Tags"
-  help:
-    es: "Empieza a escribir para filtrar valores ya usados.  Presiona enter para agregar ítems."
-    en: "Start typing to filter previously used values.  Press enter to add items."
 locales:
   type: "locales"
   label:
